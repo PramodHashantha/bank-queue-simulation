@@ -1,6 +1,6 @@
 # ==============================
 # Bank Queue Simulation - Multiple Runs Version
-# Author: [Your Name]
+# Author: K.D.H.P.Kothalawala
 # ==============================
 
 import simpy
